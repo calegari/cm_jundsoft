@@ -1,0 +1,43 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 0280-F95B
+
+ Pasta de c:\temp
+
+08/01/2024  18:10    <DIR>          .
+08/01/2024  18:10    <DIR>          ..
+06/12/2023  11:13    <DIR>          ajurieqt
+20/11/2023  15:54           174.166 AJUSTE COVERSAO MOEDA SERVIÄOS.docx
+08/01/2024  18:10                 0 arquivos.txt
+04/12/2023  14:40            56.320 assincrono.xls
+30/11/2023  18:32    <DIR>          backend
+22/12/2023  14:35            62.984 bugs.xlsx
+29/11/2023  10:36            64.806 CAMPANHA_CEA_GOVERNO_FEDERAL.xlsx
+21/11/2023  10:44    <DIR>          CV
+20/11/2023  14:37               366 DBA_VERSAO_11-2023-11-2023.SQL
+15/12/2023  16:13            49.664 DEMANDAS_PROCENGE_MUDANCAPROCENGE.xls
+24/11/2023  09:12         9.625.459 edoit.gif
+22/12/2023  21:36            76.571 EVIDENCIA_MIGPIR-11147.jpg
+30/11/2023  11:29            20.957 EXEMPLO_REPEAT.app
+30/11/2023  11:30            11.615 EXEMPLO_REPEAT.zip
+04/01/2024  16:40            22.224 exemplo_total_gdis.app
+04/01/2024  16:52            12.526 exemplo_total_gdis.zip
+29/12/2023  16:11            11.264 export_tom.xls
+27/12/2023  12:03             2.958 fontes.txt
+22/12/2023  10:03    <DIR>          imagens segasp
+28/12/2023  14:58    <DIR>          Nova pasta
+14/11/2023  13:33    <DIR>          procenge
+14/11/2023  12:30             4.302 processamento.txt
+28/12/2023  14:57             3.829 SEGASP-Esfera_57.png
+28/12/2023  14:58             3.981 SEGASP-Esfera_57.zip
+27/12/2023  17:39           297.984 SOLICITACOES.XLS
+19/12/2023  19:04            12.627 Telas CM Em Aberto - Final - Analisadas.xlsx
+12/11/2023  15:02             7.519 teste.png
+12/11/2023  15:11             5.494 TESTE2.png
+28/12/2023  14:56           152.359 testebg.png
+29/12/2023  15:26            40.366 testeflagtable.apt
+20/11/2023  15:54               220 testeftp-user.xml
+20/11/2023  15:54            45.734 testeftp.apt
+08/01/2024  15:07            35.668 testehtmlinterno.apt
+08/01/2024  15:07             4.155 testehtmlinterno.zip
+              28 arquivo(s)     10.806.118 bytes
+               8 pasta(s)    2.000.732.160 bytes dispon°veis
